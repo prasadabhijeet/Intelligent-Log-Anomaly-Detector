@@ -200,10 +200,6 @@ df = pd.read_csv('production_logs.csv')
 ✅ **Real-world logs need preprocessing** (parsing, cleaning)  
 ✅ **Feedback loop is crucial** (manually verify predictions and retrain)  
 
-## 📝 Resume Summary
-
-> *Developed a machine learning–based log anomaly detection system for microservices, leveraging TF-IDF vectorization and Random Forest classification to automatically flag unstructured logs as anomalous. Enabled real-time fault diagnosis and improved incident response time in cloud-native applications.*
-
 ## 📄 License
 
 MIT License
@@ -216,7 +212,3 @@ Feel free to extend this project! Ideas:
 - Create a web dashboard
 - Add database integration for log storage
 - Build Kubernetes operator for auto-labeling
-
----
-
-**Happy anomaly hunting!** 🕵️‍♂️
